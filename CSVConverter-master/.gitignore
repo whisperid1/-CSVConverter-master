@@ -1,0 +1,6 @@
+**/dist/
+**/build/
+**/CSV-output/
+**/__pycache__/
+**/CSV-output/
+**/tabula/
